@@ -1,2 +1,3 @@
 # EN MANTENIMIENTO #
-<img src=" <img src=" /home/valeria/Imágenes/mantenimiento.png" />
+<img src="/home/valeria/Imágenes/mantenimiento.png" alt="Imagen con tamaño controlado" width="500" height="300" />
+
